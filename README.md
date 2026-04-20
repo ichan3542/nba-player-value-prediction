@@ -75,16 +75,6 @@ RandomForestClassifier(
 用於防止 overfitting
 
 
-## 📁 專案結構
-
-├── data_utils.py
-├── train.py
-├── predict.py
-├── models/
-├── outputs/
-├── requirements.txt
-└── README.md
-
 ## 🚀 執行方式
 
 1️⃣ 安裝套件
